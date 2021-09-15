@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #ff5e00;
+  color: yellow;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -74,7 +74,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #ff5e00;
+  background-color: yellow;
 }
 
 .overlay-mf {
@@ -224,30 +224,30 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color:#ff5e00;
+  color:yellow;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #ff5e00;
+  background-color: yellow;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #ff5e00;
+  color: yellow;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #ff5e00;
+  color: yellow;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #ff5e00;
+  color: yellow;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
-  background-color: #ff5e00;
+  background-color: yellow;
 }
 
 .navbar-b .navbar-brand {
